@@ -101,3 +101,13 @@ http://geant-info.us/live/get.php?stream=36&username=96830743514835&password=968
 http://geant-info.us/live/get.php?stream=37&username=96830743514835&password=96830743514835
 #EXTINF:-1,BeIN MOVIES 4 HD
 http://geant-info.us/live/get.php?stream=38&username=96830743514835&password=96830743514835
+#EXTINF:0 group-title="(AR) Argentina",SYRIA SATELLITETV | SD (AR)
+http://leaderpro.pt:25461/live/asdf/asdf/15784.ts
+#EXTINF:0 group-title="(AR) Argentina",SYRIA SATELLITETV | SD (AR)
+http://leaderpro.pt:25461/live/Junia/Junia/15784.ts
+#EXTINF:0 group-title="(AR) Argentina",SYRIA SHAMFM | SD (AR)
+http://xsat.me:31000/live/Abdulmajid/Abdulmajid/3735.ts
+#EXTINF:0 group-title="(AR) Argentina",SYRIA SHAMNA | SD (AR)
+http://xsat.me:31000/live/Abdulmajid/Abdulmajid/314.ts
+#EXTINF:0 group-title="(AR) Argentina",SYRIA UGARIT | SD (AR)
+http://xsat.me:31000/live/Abdulmajid/Abdulmajid/3736.ts
